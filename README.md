@@ -1,4 +1,4 @@
-# fluttter_arduino_control_pad
+# flutter-gyroscope
 
 A new Flutter project.
 
